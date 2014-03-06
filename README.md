@@ -19,3 +19,5 @@ Mykhailo Poliarush
 http://poliarush.com
 
 http://automated-testing.info
+
+http://lessons2.ru
